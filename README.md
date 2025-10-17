@@ -67,3 +67,4 @@ Use commits claros e organizados no Git
 
 👩‍💻 Desenvolvido por
 Luci Iara de Souza Abreu  - Analista de Dados, Porto Alegre, RS — Brasil
+https://luciara-abreu.github.io/Automation_for_refactoring_mailing/relatorio_campanhas.html 
